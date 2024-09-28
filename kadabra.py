@@ -17,7 +17,7 @@ try:
 except: 
     print("An error occurred while trying to open the file.")
 
-print("[i] checking dependencies\n")
+print("[INF] checking dependencies\n")
 finds = 0
 
 if args.output:
@@ -42,4 +42,4 @@ for i in data.keys():
         print("[!] error")
 
 f.close()
-print(f"[i] total finds: {finds}")
+print(f"[INF] total finds: {finds}")
