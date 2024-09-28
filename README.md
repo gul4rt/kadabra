@@ -1,5 +1,10 @@
 # Kadabra
 
+<div align="center">
+  <img src="docs/kadabra.png" alt="Kadabra" width="200">
+</div>
+
+
 Kadabra is a tool developed to check for dependency confusion vulnerabilities in JavaScript projects (NPM).
 
 As a Bug Hunter, you can use Kadabra when you find exposed package.json files in applications.
